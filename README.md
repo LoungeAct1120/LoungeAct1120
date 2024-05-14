@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hello, I'm Annabella</h1>
+<h3>College Student | Data Science Major</h3>
 
-<!--
-**LoungeAct1120/LoungeAct1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Currently pursuing a Bachelors's degree in Data Science at the University of Texas at Austin.
 
-Here are some ideas to get you started:
+## What I'm Up To
+- Applying to double major in Geology
+- Finding new projects to work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- <b>Languages:</b> R & Python
+- <b>Tools:</b> Git, Visual Studio Code, R Studio
+
+## Goals
+- Integrate Geology and Data Sciences
