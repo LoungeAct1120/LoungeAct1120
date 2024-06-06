@@ -1,11 +1,11 @@
 <h1>Hello, I'm Annabella</h1>
-<h3>College Student | Data Science Major</h3>
+<h3>College Student | Data Science and Geology Major</h3>
 
 ## About Me
-- Currently pursuing a Bachelors's degree in Data Science at the University of Texas at Austin.
+- Currently pursuing Bachelors degrees in Data Science and General Geology at the University of Texas at Austin.
 
 ## What I'm Up To
-- Applying to double major in Geology
+- Helping out with bone research at the Vertebrate Paleontology Lab
 - Finding new projects to work on
 
 ## Tech Stack
